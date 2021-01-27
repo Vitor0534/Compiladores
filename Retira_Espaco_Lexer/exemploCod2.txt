@@ -1,0 +1,11 @@
+a = b;
+if ( a == 3 )
+ a= z;
+
+//isto é um coments
+
+olocoBicho= tamoAiCara;
+
+
+
+aquiTêmos 1erro //esse o ê vai virar P e o erro vai virar 0000

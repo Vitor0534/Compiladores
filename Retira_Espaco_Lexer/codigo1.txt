@@ -1,0 +1,10 @@
+inicio
+
+    x = 1 + 2 ;
+    
+    switch ( x == 3 )
+    {
+          x = x + 4 ;
+    }
+
+fim
