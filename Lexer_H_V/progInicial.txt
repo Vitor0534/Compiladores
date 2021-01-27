@@ -1,0 +1,22 @@
+//Isto e um comentario
+
+15
+16
+1aa
+1bb
+a121
+a22
+
+aç
+identific%ador$
+
+if ( a   == b   )
+
+
+
+
+
+
+	then          A =        10
+
+	b = 1a
